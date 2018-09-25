@@ -1,2 +1,2 @@
-"Esto es cursiva"
-"Esto es negrita"
+*"Esto es cursiva"*
+**"Esto es negrita"**
