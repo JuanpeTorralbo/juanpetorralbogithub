@@ -17,3 +17,10 @@
  `Codigo en linea`
 
 [Esto redirige a google](http://www.google.es)
+
+# Tutorial de GIT
+
+## Comandos básicos de Git
+
+*Iniciar repositorio* 
+`git init`
