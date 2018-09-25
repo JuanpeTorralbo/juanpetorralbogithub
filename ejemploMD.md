@@ -12,5 +12,6 @@
  # Encabezado de primer nivel 
  ## Encabezado de segundo nivel
  
- > Esto es una cita
- 'Codigo en linea'
+ > Esto es una cita <
+ 
+ `Codigo en linea`
