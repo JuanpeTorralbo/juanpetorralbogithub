@@ -8,3 +8,6 @@
  * Primer nivel 
  * Segundo nivel 
  * Tercer nivel
+ 
+ # Encabezado de primer nivel 
+ ## Encabezado de segundo nivel
